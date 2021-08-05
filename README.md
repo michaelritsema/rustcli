@@ -1,0 +1,2 @@
+# rustcli
+Rust CLI Replacements
